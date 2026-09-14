@@ -74,7 +74,7 @@ We empower startups, enterprises, and government bodies in:
 
 ## 🏛 Backed By Vigor Industries
 
-Vigor Technologies is part of **Vigor Industries Limited**, a continuously spanning empire.
+####Vigor Technologies is part of **Vigor Industries Limited**, a continuously spanning empire.
 ---
 
 ## 🧩 Let's Build the Future Together
