@@ -54,7 +54,6 @@ We empower startups, enterprises, and government bodies in:
 - ✅ **Parent Company**: [Vigor Industries Limited](https://www.newseepie.live/vigorTechnologieslimited)
 - 🌍 **Headquarters**: Bhilai, India
 - ⚙️ **Tech Stack**: PyTorch, TensorFlow, Node.js, Next.js, Python, React, Jetson, AWS, GCP, C#, C++, NumPy, Pandas, Matplotlib, Transformers, Tensorflow, Keras, Scikit-learn, Backend Development
-- 🔗 **Live Demos / Brochures**: [Web Brochure](https://www.newseepie.live/webbrosh) | [AI Brosh](https://www.newseepie.live/aibrosh)
 
 ---
 
