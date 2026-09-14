@@ -1,8 +1,8 @@
 # Know-Us
 
-# 🚀 Vigor Infotech Limited
+# 🚀 Vigor Technologies Limited
 
-**Vigor Infotech Limited** is the AI & IT research and development subsidiary of **Vigor Industries Limited**, a global conglomerate shaping the future across industries. We engineer end-to-end digital transformation through AI, automation, software, and cybersecurity for a smarter tomorrow.
+**Vigor Technologies Limited** is the AI & IT research and development subsidiary of **Vigor Industries Limited**, a global conglomerate shaping the future across industries. We engineer end-to-end digital transformation through AI, automation, software, and cybersecurity for a smarter tomorrow.
 
 > *“We don’t just build tech. We build intelligent futures.”*
 
@@ -64,7 +64,7 @@ We empower startups, enterprises, and government bodies in:
 
 ## 📍 Quick Facts
 
-- ✅ **Parent Company**: [Vigor Industries Limited](https://www.newseepie.live/vigorinfotechlimited)
+- ✅ **Parent Company**: [Vigor Industries Limited](https://www.newseepie.live/vigorTechnologieslimited)
 - 🌍 **Headquarters**: Raipur & Bhilai, India
 - ⚙️ **Tech Stack**: PyTorch, TensorFlow, Node.js, Next.js, Python, React, Jetson, AWS, GCP
 - 🔗 **Live Demos / Brochures**: [Web Brochure](https://www.newseepie.live/webbrosh) | [AI Brosh](https://www.newseepie.live/aibrosh)
@@ -74,7 +74,7 @@ We empower startups, enterprises, and government bodies in:
 ## 📬 Contact Us
 
 - 📧 Email: info@vigorindustrieslimited.com  
-- 🌐 Website: [newseepie.live/vigorinfotechlimited](https://www.newseepie.live/vigorinfotechlimited)  
+- 🌐 Website: [newseepie.live/vigorTechnologieslimited](https://www.newseepie.live/vigorTechnologieslimited)  
 - 📞 Phone: +91-9285291107  
 - 📍 Locations: Central India HQ (Raipur), Development Center (Raipur)
 
@@ -88,7 +88,7 @@ We empower startups, enterprises, and government bodies in:
 
 ## 🏛 Backed By Vigor Industries
 
-Vigor Infotech is part of **Vigor Industries Limited**, an empire spanning:
+Vigor Technologies is part of **Vigor Industries Limited**, an empire spanning:
 
 - ⚒️ Mining, Oil & Steel
 - 🏢 Infrastructure & Construction
@@ -106,4 +106,4 @@ Reach out, let’s co-create what’s next.
 
 ---
 
-© 2025 Vigor Infotech Limited. All rights reserved.
+© 2025 Vigor Technologies Limited. All rights reserved.
