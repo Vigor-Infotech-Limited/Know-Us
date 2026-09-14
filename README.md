@@ -35,19 +35,6 @@ LLM-powered automation, autonomous AI agents, NLP pipelines, chatbot architectur
 
 ---
 
-## 💼 Website & Design Services
-
-| Plan Name | Price | Delivery | Features |
-|----------|-------|----------|----------|
-| **Genesis** | ₹4,999 | 5 days | Single-page responsive, SEO, 5 stock images |
-| **Ascend**  | ₹11,999 | 7 days | 5-page dynamic site, chatbot, analytics, free logo |
-| **Echelon** | ₹20,999 | 10 days | 10 pages, premium content (1500 words), branding |
-| **Celestial** | ₹39,999 | 14 days | Futuristic UI, CMS/API, full stack integration, animations |
-
-All designs are optimized for mobile-first UI, lightning-fast performance, SEO, and security.
-
----
-
 ## 🎯 Target Verticals
 
 We empower startups, enterprises, and government bodies in:
@@ -65,8 +52,8 @@ We empower startups, enterprises, and government bodies in:
 ## 📍 Quick Facts
 
 - ✅ **Parent Company**: [Vigor Industries Limited](https://www.newseepie.live/vigorTechnologieslimited)
-- 🌍 **Headquarters**: Raipur & Bhilai, India
-- ⚙️ **Tech Stack**: PyTorch, TensorFlow, Node.js, Next.js, Python, React, Jetson, AWS, GCP
+- 🌍 **Headquarters**: Bhilai, India
+- ⚙️ **Tech Stack**: PyTorch, TensorFlow, Node.js, Next.js, Python, React, Jetson, AWS, GCP, C#, C++, NumPy, Pandas, Matplotlib, Transformers, Tensorflow, Keras, Scikit-learn, Backend Development
 - 🔗 **Live Demos / Brochures**: [Web Brochure](https://www.newseepie.live/webbrosh) | [AI Brosh](https://www.newseepie.live/aibrosh)
 
 ---
