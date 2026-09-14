@@ -60,10 +60,10 @@ We empower startups, enterprises, and government bodies in:
 
 ## 📬 Contact Us
 
-- 📧 Email: info@vigorindustrieslimited.com  
-- 🌐 Website: [newseepie.live/vigorTechnologieslimited](https://www.newseepie.live/vigorTechnologieslimited)  
+- 📧 Email: info@vigortechnologies.com  
+- 🌐 Website: [vigortechnologies.in](https://wwww.vigortechnologies.in)  
 - 📞 Phone: +91-9285291107  
-- 📍 Locations: Central India HQ (Raipur), Development Center (Raipur)
+- 📍 Locations: Central India HQ (Bhilai), Development Center (Bhilai)
 
 ---
 
@@ -75,15 +75,7 @@ We empower startups, enterprises, and government bodies in:
 
 ## 🏛 Backed By Vigor Industries
 
-Vigor Technologies is part of **Vigor Industries Limited**, an empire spanning:
-
-- ⚒️ Mining, Oil & Steel
-- 🏢 Infrastructure & Construction
-- ⚡ Power & Petrochemicals
-- 🚗 Motors & Logistics
-- 💸 Finserv & Retail
-- 🚀 Space, AI & R&D
-
+Vigor Technologies is part of **Vigor Industries Limited**, a continuously spanning empire.
 ---
 
 ## 🧩 Let's Build the Future Together
@@ -93,4 +85,4 @@ Reach out, let’s co-create what’s next.
 
 ---
 
-© 2025 Vigor Technologies Limited. All rights reserved.
+© 2026 Vigor Technologies Limited. All rights reserved.
